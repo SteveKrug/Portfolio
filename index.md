@@ -3,8 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](% post_url YYYY-MM-DD-title.md %).
+[Link to another page]({% post_url YYYY-MM-DD-title.md %}).
 
 There should be whitespace between paragraphs.
 
