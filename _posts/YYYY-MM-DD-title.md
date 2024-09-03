@@ -1,4 +1,10 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+layout: post
+title:  "Welcome to Jekyll!"
 ---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
